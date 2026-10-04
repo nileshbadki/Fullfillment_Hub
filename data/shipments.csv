@@ -1,0 +1,7 @@
+shipment_id,order_id,courier,service,shipping_cost,expected_pickup,status,tracking_no
+SHP-001,ORD-1001,Delhivery,Express,95,2026-10-03 16:00,Pending,
+SHP-002,ORD-1002,BlueDart,Standard,75,2026-10-03 18:00,Pending,
+SHP-003,ORD-1005,Xpressbees,Standard,65,2026-10-03 17:30,Ready,
+SHP-004,ORD-1008,Delhivery,Standard,70,2026-10-03 17:00,Ready,
+SHP-005,ORD-1010,Xpressbees,Standard,65,2026-10-03 14:30,Pickup Missed,
+SHP-006,ORD-1011,BlueDart,Standard,75,2026-10-03 13:30,Shipped,BD123456789

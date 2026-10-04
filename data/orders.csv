@@ -1,0 +1,13 @@
+order_id,channel,customer_name,sku,product_name,variant,quantity,priority,order_time,status,warehouse,pick_location,shipping_method,pickup_deadline,staging_location,note
+ORD-1001,Website,Aarav Sharma,SKU-101,Running Shoes,Black / Size 9,1,Priority,2026-10-03 08:10,Picking,Main,A-12-B,Delhivery Express,16:00,Bay A,Same-day priority
+ORD-1002,Marketplace,Neha Patil,SKU-102,Wireless Headphones,Black,1,Standard,2026-10-03 08:35,Packing,Main,A-14-C,BlueDart Standard,18:00,Bay B,
+ORD-1003,Website,Rohan Joshi,SKU-103,Smart Watch,Silver,1,Priority,2026-10-03 09:00,Stock Issue,Main,B-02-A,Delhivery Express,15:30,Bay A,Main warehouse has no available stock
+ORD-1004,Website,Priya Deshmukh,SKU-104,Cotton T-Shirt,Blue / Medium,2,Standard,2026-10-03 09:15,New,Main,C-05-B,BlueDart Standard,18:00,Bay C,
+ORD-1005,Marketplace,Vikram Shah,SKU-105,Backpack,Black,1,Standard,2026-10-03 09:30,Packed,Main,C-08-D,Xpressbees Standard,17:30,Bay D,
+ORD-1006,Website,Meera Kulkarni,SKU-101,Running Shoes,Black / Size 9,1,Priority,2026-10-03 09:45,New,Main,A-12-B,Delhivery Express,16:15,Bay A,Priority customer
+ORD-1007,Marketplace,Aditya Rao,SKU-102,Wireless Headphones,Black,2,Standard,2026-10-03 10:00,Picking,Main,A-14-C,BlueDart Standard,18:30,Bay B,
+ORD-1008,Website,Sneha Joshi,SKU-104,Cotton T-Shirt,Blue / Medium,1,Standard,2026-10-03 10:15,Staged,Main,C-05-B,Delhivery Standard,17:00,Bay C,
+ORD-1009,Website,Karan Patil,SKU-103,Smart Watch,Silver,1,Priority,2026-10-03 10:30,Stock Issue,Main,B-02-A,Delhivery Express,15:45,Bay A,Waiting for transfer from Overflow
+ORD-1010,Marketplace,Ananya Singh,SKU-105,Backpack,Black,1,Standard,2026-10-03 10:45,Pickup Missed,Main,C-08-D,Xpressbees Standard,14:30,Bay D,Courier missed pickup
+ORD-1011,Website,Rahul Verma,SKU-101,Running Shoes,Black / Size 9,1,Standard,2026-10-03 11:00,Shipped,Main,A-12-B,BlueDart Standard,13:30,Bay B,Shipped successfully
+ORD-1012,Marketplace,Divya Joshi,SKU-102,Wireless Headphones,Black,1,Standard,2026-10-03 11:20,Packing,Main,A-14-C,Xpressbees Standard,19:00,Bay C,Verify variant before packing

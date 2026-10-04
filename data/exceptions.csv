@@ -1,0 +1,5 @@
+exception_id,order_id,type,severity,problem,owner,action,status,created_at
+EX-001,ORD-1003,Stock discrepancy,High,SKU-103 is unavailable in Main although the order requires one unit,Warehouse,Transfer one unit from Overflow,Open,2026-10-03 09:05
+EX-002,ORD-1009,Priority deadline risk,High,Priority order is blocked because required stock is not in Main,Operations,Confirm transfer from Overflow,Open,2026-10-03 10:35
+EX-003,ORD-1010,Courier pickup missed,High,Courier did not collect the package during scheduled pickup,Operations,Contact courier and reschedule pickup,Open,2026-10-03 14:45
+EX-004,ORD-1012,Wrong variant,Medium,Variant must be verified before package is sealed,Warehouse,Verify product variant during packing,Open,2026-10-03 11:25

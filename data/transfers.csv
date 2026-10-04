@@ -1,0 +1,2 @@
+transfer_id,sku,product_name,from_warehouse,to_warehouse,quantity,status,requested_at
+TR-001,SKU-103,Smart Watch,Overflow,Main,1,Requested,2026-10-03 09:10
